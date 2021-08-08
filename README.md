@@ -20,5 +20,5 @@ Mude seu status personalizado de forma automática.
 
 ## Agradecimentos
 Better Discord<br>
-r4zor<br>
+r4zor/rettro<br>
 
